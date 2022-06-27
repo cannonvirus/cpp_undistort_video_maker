@@ -1,0 +1,5 @@
+{
+    "root_path": "/data/EdgeFarm_pig/Tracking/autolabel_rootpath/",
+    "video_path": "/data/EdgeFarm_pig/Tracking/reference_video/test_sample.mp4",
+    "interval": 8
+}
