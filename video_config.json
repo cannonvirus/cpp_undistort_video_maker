@@ -1,5 +1,5 @@
 {
-    "root_path": "/data/EdgeFarm_pig/Tracking/autolabel_rootpath/",
-    "video_path": "/data/EdgeFarm_pig/Tracking/reference_video/test_sample.mp4",
+    "root_path": "/works/cpp_undistort_video_maker/",
+    "video_path": "/works/demo_yong.mp4",
     "interval": 8
 }
